@@ -1,5 +1,9 @@
 package Day6ReviewLoop;
 
+/**
+ * Here is the problem: https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true
+ */
+
 import java.util.Scanner;
 
 public class Day6ReviewLoop {
