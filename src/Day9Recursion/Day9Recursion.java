@@ -1,7 +1,7 @@
 package Day9Recursion;
 
 /**
- * Here is the problem: https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
+ * Here is the problem: https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true
  */
 
 import java.io.BufferedReader;
