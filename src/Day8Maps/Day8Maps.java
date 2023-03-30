@@ -1,5 +1,9 @@
 package Day8Maps;
 
+/**
+ * Here is the problem: https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true
+ */
+
 import java.util.HashMap;
 import java.util.Scanner;
 
