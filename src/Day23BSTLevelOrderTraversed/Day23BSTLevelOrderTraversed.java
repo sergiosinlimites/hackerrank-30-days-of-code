@@ -35,7 +35,7 @@ public class Day23BSTLevelOrderTraversed {
         System.out.print(" ");
       }
     }
-}
+  }
 
   public static Node insert(Node root,int data){
     if(root==null){
