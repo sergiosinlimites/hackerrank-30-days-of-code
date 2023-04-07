@@ -1,5 +1,9 @@
 package Day22BinarySearchTrees;
 
+/*
+ * Here is the problem: https://www.hackerrank.com/challenges/30-binary-search-trees/problem
+ */
+
 import java.util.Scanner;
 
 class Node {
